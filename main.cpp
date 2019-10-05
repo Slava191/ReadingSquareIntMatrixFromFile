@@ -16,7 +16,7 @@
 
 using namespace std;
 
-const char file_link[]="/Users/slava191/Documents/Университетское/Программирование/Lab4Barinov/Lab4Barinov/";
+const char file_link[]="";
 
 int** change_first_line_to_main_diagonal(int **ary, int n, int m){
     
